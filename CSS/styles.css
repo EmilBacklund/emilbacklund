@@ -1,7 +1,16 @@
 body {
-    margin: 20px;
+  margin: 20px;
 }
 
 image {
-    size: 40%;
+  size: 40%;
+}
+
+fieldset {
+  background-color: black;
+  color: white;
+}
+
+.amessage {
+  color: red;
 }
