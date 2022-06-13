@@ -1,8 +1,8 @@
 ## Hello, my name is Emil Backlund and I'm studying to become a Front-End Developer
 
-# I see myself as a Creative Designer. <br>
-
-#### I love to build and to always learn more.
+- I see myself as a Creative Designer. :art:
+- I love to build and to always learn more. :chart_with_upwards_trend:
+- If I'm not coding you probably find me gaming :video_game:
 
 # Contact
 
