@@ -4,6 +4,9 @@
 - I love to build and to always learn more. :chart_with_upwards_trend:
 - If I'm not coding you probably find me gaming :video_game:
 
+Live in Oslo
+From Stockholm
+
 # Contact
 
 - [Instagram](https://www.instagram.com/baackiii/?hl=en)
