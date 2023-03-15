@@ -1,4 +1,4 @@
-## Hello, my name is Emil Backlund and I'm studying to become a Front-End Developer
+## Hi! I'm Emil Backlund and I'm leveling up my skills as a Front-End Developer 🧙🏾‍♂️
 
 - I see myself as a Creative Designer. :art:
 - I love to build and to always learn more. :chart_with_upwards_trend:
