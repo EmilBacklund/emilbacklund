@@ -1,4 +1,4 @@
-## Hi! I'm Emil Backlund and I'm leveling up my skills as a Front-End Developer 🧙🏾‍♂️
+## Leveling up my skills as a Front-End Developer 🧙🏾‍♂️
 
 - I see myself as a Creative Designer. :art:
 - I love to build and to always learn more. :chart_with_upwards_trend:
