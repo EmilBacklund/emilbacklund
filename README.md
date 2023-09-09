@@ -2,10 +2,6 @@
 
 - I see myself as a Creative Designer. :art:
 - I love to build and to always learn more. :chart_with_upwards_trend:
-- If I'm not coding you probably find me gaming :video_game:
-
-Living in Oslo <br>
-From Stockholm
 
 # Contact
 
