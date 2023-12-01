@@ -1,7 +1,6 @@
 ## Leveling up my skills as a Front-End Developer 🧙🏾‍♂️
 
-- I see myself as a Creative Designer. :art:
-- I love to build and to always learn more. :chart_with_upwards_trend:
+- I like to build and to always learn more. :chart_with_upwards_trend:
 
 # Contact
 
