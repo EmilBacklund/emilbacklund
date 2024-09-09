@@ -1,6 +1,4 @@
-## Leveling up my skills as a Front-End Developer 🧙🏾‍♂️
-
-- I like to build and to always learn more. :chart_with_upwards_trend:
+## Always leveling up my skills as a Front-End Developer 🧙🏾‍♂️
 
 # Contact
 
